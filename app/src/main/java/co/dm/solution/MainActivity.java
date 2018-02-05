@@ -20,6 +20,8 @@ import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
 
+// Test Git
+
     Button btnOn, btnOff;
     TextView txtArduino, txtString, txtStringLength, sensorView0, sensorView1, sensorView2, sensorView3;
     Handler bluetoothIn;
